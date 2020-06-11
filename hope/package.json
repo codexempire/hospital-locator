@@ -1,0 +1,49 @@
+{
+  "name": "hope",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.7.2",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/lab": "^4.0.0-alpha.55",
+    "@types/react-geocode": "^0.2.0",
+    "@types/react-map-gl": "^5.2.4",
+    "@types/react-places-autocomplete": "^7.2.6",
+    "axios": "^0.19.2",
+    "cra-template-typescript": "1.0.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-geocode": "^0.2.1",
+    "react-google-maps": "^9.4.5",
+    "react-google-maps-loader": "^4.3.0",
+    "react-google-places-autocomplete": "^2.0.6",
+    "react-google-places-suggest": "^3.9.2",
+    "react-map-gl": "^5.2.7",
+    "react-mapbox-autocomplete": "^0.2.3",
+    "react-places-autocomplete": "^7.2.1",
+    "react-scripts": "3.4.1",
+    "serve": "^11.3.2"
+  },
+  "scripts": {
+    "start": "npx serve -s build",
+    "local:start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "typescript": "^3.9.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
