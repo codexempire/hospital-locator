@@ -9,7 +9,7 @@
     "@types/react-geocode": "^0.2.0",
     "@types/react-map-gl": "^5.2.4",
     "@types/react-places-autocomplete": "^7.2.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cra-template-typescript": "1.0.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
